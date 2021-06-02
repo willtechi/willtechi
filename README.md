@@ -1,5 +1,5 @@
 - 👋 Hi, I’m William Ulloa
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Drupal, GIT, HTML, CSS & so many other tools
 - 💞️ I’m looking to collaborate on real live projects pretty soon ...
 - 📫 How to reach me willulloatech@gmail.com ...
